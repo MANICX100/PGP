@@ -2,7 +2,7 @@
 
 Verify any PGP encrypted messages I send you with the included key.
 
-**Published Date: **September 6, 2023
+**Published Date:** September 6, 2023
 
 Verify any PGP encrypted messages I send you with this public key. This key should be used to encrypt any sensitive information before sending it to me.
 
